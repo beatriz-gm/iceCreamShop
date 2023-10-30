@@ -20,7 +20,6 @@
   --fc-p: hsl(var(--hue), 84%, 12%);
 }
 
-
 @media (min-width: 850px) {
   .page {
     max-width: 144rem;
