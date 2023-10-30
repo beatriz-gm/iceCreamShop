@@ -20,6 +20,7 @@
   --fc-p: hsl(var(--hue), 84%, 12%);
 }
 
+
 @media (min-width: 850px) {
   .page {
     max-width: 144rem;
@@ -42,7 +43,7 @@
     display: none;
   }
 }  
-@media (min-width: 950px) {
+@media (min-width: 1024px) {
   header {
     height: 100vh;
   }
@@ -52,7 +53,7 @@
     grid-template-columns: 1fr 1fr 1fr;
     gap: 3.2rem;
     margin: 6.4rem auto;
-    margin-left: 15%;
+    margin-left: 4rem;
     max-height: 53.2rem;
     grid-template-areas: 
     "A B C"
@@ -102,6 +103,13 @@
     font-weight: 700;
     font-size: 14px;
     line-height: 28px;
+  }
+}
+
+@media (min-width: 1440px) {
+  main {
+    margin-left: 0;
+    margin: 6.4rem auto;
   }
 }
 
