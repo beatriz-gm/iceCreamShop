@@ -7,8 +7,9 @@ The design was made on Figma and developed with CSS and HTML.
 It's a responsive design, for mobile and desktop users!
 
 
-## Screenshots
+## Mobile version:
+![alt text](screenshots/mobileIceCream.png "Mobile version")
 
+## Desktop version:
 ![alt text](screenshots/iceCreamDesktop.png "Desktop version")
 
-![alt text](screenshots/mobileIceCream.png "Mobile version")
