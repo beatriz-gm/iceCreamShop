@@ -13,3 +13,4 @@ It's a responsive design, for mobile and desktop users!
 ## Desktop version:
 ![alt text](screenshots/iceCreamDesktop.png "Desktop version")
 
+### By: [Beatriz Galvão](https://www.linkedin.com/in/beatriz-galmed/) 💜
